@@ -26,11 +26,11 @@ Since the most recent commit is in a non-functional state, Im referencing the la
 
 Focus session:
 
-<img width="818" height="609" alt="Image" src="https://github.com/user-attachments/assets/0c9c50ec-c142-4e5e-92bb-1f18f33e1ae7" />
+[python focus image](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-39-59.png?raw=true)
 
 Break Timer:
+[python break timer](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-40-29.png?raw=true)
 
-<img width="819" height="608" alt="Image" src="https://github.com/user-attachments/assets/403aae24-0185-4876-b57d-4cd8705f3693" />
 
 
 ## This Version
@@ -48,11 +48,12 @@ This C version is also a command-line application. It includes all of the featur
 - Text color changes depending on current state (paused, focusing, break, etc.)
   
 left: open-ended focus session Right: Fixed Timer session
-<img width="1635" height="610" alt="Image" src="https://github.com/user-attachments/assets/dc651292-3592-49b9-b473-00540a0ff6f0" />
+[c focus sessions](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-31-01.png?raw=true)
 
 Break timer:
 
-<img width="814" height="609" alt="Image" src="https://github.com/user-attachments/assets/b12b1d92-310b-4e9a-814c-573cdcac826f" />
+[c break session](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-32-25.png?raw=true)
+
 
 ## Coding
 ### Break time calculator logic
