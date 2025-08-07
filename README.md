@@ -26,10 +26,11 @@ Since the most recent commit is in a non-functional state, Im referencing the la
 
 Focus session:
 
-[python focus image](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-39-59.png?raw=true)
+![python focus image](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-39-59.png?raw=true)
 
 Break Timer:
-[python break timer](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-40-29.png?raw=true)
+
+![python break timer](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-40-29.png?raw=true)
 
 
 
@@ -47,12 +48,12 @@ This C version is also a command-line application. It includes all of the featur
 - Pause/resume functionality for focus sessions (fixed by chatgpt)
 - Text color changes depending on current state (paused, focusing, break, etc.)
   
-left: open-ended focus session Right: Fixed Timer session
-[c focus sessions](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-31-01.png?raw=true)
+left: open-ended focus session | Right: Fixed Timer session
+![c focus sessions](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-31-01.png?raw=true)
 
 Break timer:
 
-[c break session](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-32-25.png?raw=true)
+![c break session](https://github.com/scarvey01/Flowstate-C/blob/main/images/Screenshot_2025-08-05_19-32-25.png?raw=true)
 
 
 ## Coding
