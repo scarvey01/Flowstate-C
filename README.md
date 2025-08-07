@@ -230,7 +230,7 @@ while (sec <= total_sec) {
         if (ch == 'p' || ch == 'P')
             paused = 0;               
     } else {                         
-        printf("Running... Press 'p' to pause\n");  // Inform user timer is running and how to pause
+        printf("Running... Press 'p' to pause\n"); 
         
         if (kbhit()) {               
             int ch = getchar();      
