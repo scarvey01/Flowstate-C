@@ -39,7 +39,7 @@ This C version is also a command-line application. It includes all of the featur
 
 - ANSI styling for colors and formatting
 - [Unicode box characters](https://en.wikipedia.org/wiki/Box-drawing_characters) for cleaner UI
-- Cross-platform support (Windows and Unix-like systems) the compiler is still wacky on windows tho
+- Cross-platform support (Windows and Unix-like systems)
 - Logs total elapsed time (focus + break) and date/time of each session in the output text file
 - Live stats dashboard during sessions
 - User-customizable session lengths
